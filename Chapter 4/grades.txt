@@ -1,0 +1,5 @@
+12121 Average: 80.00 B
+11500 Average: 59.33 F
+12893 Average: 66.67 D
+10355 Average: 87.67 B
+11310 Average: 65.00 D
